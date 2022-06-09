@@ -61,7 +61,7 @@ Button : If you are deploying and using Railway
 
 -   Section Moved to
 
-    [Lumine-Guides](https://github.com/akumasuki/Natsu-guides/blob/main/README.md)
+    [Lumine-Guides](https://github.com/akumasuki/Mai-san-guides/blob/main/README.md)
 
 
 
