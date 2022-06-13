@@ -105,7 +105,7 @@ for more information.
 
 Please give this repo a ⭐ if it helped you.
 
-## Natsu 
+## Mai-san
 
 This is a lovely project by akuma. After forking give it a star. 🌟 star it. If you need help then click the following Whatsapp icons and join our groups and contact an OWNER 
 
